@@ -1,3 +1,9 @@
+## 2.1.0 (03 December 2012)
+
+  - Updated to jQuery 1.8.3
+  - Updated to jQuery UI 1.9.2
+  - Updated to latest jquery-ujs
+
 ## 2.0.2 (03 April 2012)
 
   - Updated to jQuery 1.7.2
